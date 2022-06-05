@@ -21,6 +21,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://projectmammoth.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prjctmammoth
 github_username:  project-mammoth
+# Attempt to suppress the GitHub link/button
+github:
+  is_project_page: false
 
 # Build settings
 markdown: kramdown
