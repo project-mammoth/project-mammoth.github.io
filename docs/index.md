@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 title: Project Mammoth
 ---
 
@@ -16,6 +16,6 @@ The collaboration of four siblings striving to push the boundaries of music and 
 
 [Github](https://github.com/project-mammoth)
 
-[Instagram](https://www.instagram.com/project_mammoth/)
-
 [Twitter](https://twitter.com/prjctmammoth)
+
+[Instagram](https://www.instagram.com/project_mammoth/)
