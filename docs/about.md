@@ -1,18 +1,18 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Mammoth](/images/pm-logo-no-text.jpg)
+## Music, Art, Tech & General Hackery
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The collaboration of four siblings striving to push the boundaries of music and tech infused with art. Fueled by a passion to dissasemble, tear apart, tinker, hack and redefine the audible, visible and underlying circuitry of everyday life.    
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Soundcloud](https://soundcloud.com/projectmammoth)
 
+[Github](https://github.com/project-mammoth)
 
-[jekyll-organization]: https://github.com/jekyll
+[Twitter](https://twitter.com/prjctmammoth)
+
+[Instagram](https://www.instagram.com/project_mammoth/)
