@@ -16,7 +16,11 @@ The collaboration of four siblings striving to push the boundaries of music and 
 <img width="40%" height="40%" src="https://projectmammoth.com/images/dialed-up-ascii.png">
 </p>
 
-Check out our new song "[Dialed Up](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3)"!  A preview of the music and phreaking themed mini-CTF that is embedded in the song is available now, and details on the full CTF can [be found on the GitHub page](https://github.com/project-mammoth/dialed-up-ctf). The full contest starts on 2022-08-06.
+Check out our new song "[Dialed Up](https://soundcloud.com/projectmammoth/dialed-up)"!  There is a preview release of our music and phreaking themed [mini-CTF](https://ctfd.io/whats-a-ctf/) embedded in the [.mp3 version of the song](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3) that is available now, and details on the full CTF can [be found on the contest page](https://dialed-up.ctfd.io/). The full contest starts on 2022-08-06.
+
+<p align="center">
+  <b><a href="https://dialed-up.ctfd.io/">Click here to play along!!</a></b>
+</p>
 
 
 [Soundcloud](https://soundcloud.com/projectmammoth)
