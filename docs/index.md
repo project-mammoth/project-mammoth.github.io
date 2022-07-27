@@ -23,11 +23,12 @@ MD YT Link
 -->
 
 <iframe width="560" height="315" 
-src="https://www.youtube.com/watch?v=3hFmBamq3eI"  
+src="https://www.youtube.com/embed/3hFmBamq3eI"  
 frameborder="0"  
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"  
 allowfullscreen></iframe>
 
+  
 </p>
 
 Check out our new song "[Dialed Up](https://soundcloud.com/projectmammoth/dialed-up)"!  There is a preview release of our music and phreaking themed [mini-CTF](https://ctfd.io/whats-a-ctf/) embedded in the [.mp3 version of the song](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3) that is available now, and details on the full CTF can [be found on the contest page](https://dialed-up.ctfd.io/). The full contest starts on 2022-08-06.
