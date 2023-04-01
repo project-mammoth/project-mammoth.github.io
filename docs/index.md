@@ -12,6 +12,7 @@ title: Project Mammoth
 
 Project Mammoth is a collaboration of four siblings striving to push the boundaries of music and tech infused with art.
 
+
 ## Dialed Up!
 
 <p align="center">
@@ -32,7 +33,9 @@ allowfullscreen></iframe>
 
 </p>
 
-Check out our new video and song "[Dialed Up](https://soundcloud.com/projectmammoth/dialed-up)"!  As part of this release there is a music and phreaking themed [mini-CTF](https://ctfd.io/whats-a-ctf/) with hacking challenges embedded in the [.mp3 version of the song](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3).  The contest is now complete, but if you like music and hacking most of the challenges are still available for playing.  Details on the full CTF can still [be found on the contest page](https://dialed-up.ctfd.io/).
+Check out our new [video](https://www.youtube.com/embed/euMZYqDG4Sc) and song "[Dialed Up](https://soundcloud.com/projectmammoth/dialed-up)"!
+
+Also included in this release is a music and phreaking themed [mini-CTF](https://ctfd.io/whats-a-ctf/) with hacking challenges embedded in the [.mp3 version of the song](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3).  The contest is now complete, but if you like music and hacking, most of the challenges are still available for playing.  Details on the original CTF and the challenges can [be found on the contest page](https://dialed-up.ctfd.io/).
 
 <p align="center">
   <b><a href="https://dialed-up.ctfd.io/">Click here to check out the original CTF contest details.</a></b>
@@ -41,10 +44,10 @@ Check out our new video and song "[Dialed Up](https://soundcloud.com/projectmamm
 
 # Links!
 
-[Soundcloud](https://soundcloud.com/projectmammoth)
-
-[Github](https://github.com/project-mammoth)
+[Soundcloud](https://soundcloud.com/projectmammoth) - Check out our other songs here!!
 
 [Twitter](https://twitter.com/prjctmammoth)
 
 [Instagram](https://www.instagram.com/project_mammoth/)
+
+[Github](https://github.com/project-mammoth)
