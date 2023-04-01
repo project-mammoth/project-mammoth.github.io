@@ -10,7 +10,9 @@ title: Project Mammoth
 ![Mammoth](https://projectmammoth.com/images/pm-logo-no-text.jpg)
 ## Music, Art, Tech & General Hackery
 
-The collaboration of four siblings striving to push the boundaries of music and tech infused with art. Fueled by a passion to dissasemble, tear apart, tinker, hack and redefine the audible, visible and underlying circuitry of everyday life.    
+Project Mammoth is a collaboration of four siblings striving to push the boundaries of music and tech infused with art.
+
+## Dialed Up!
 
 <p align="center">
 <!--
@@ -23,20 +25,21 @@ MD YT Link
 -->
 
 <iframe width="560" height="315" 
-src="https://www.youtube.com/embed/3hFmBamq3eI"  
+src="https://www.youtube.com/embed/euMZYqDG4Sc"
 frameborder="0"  
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"  
 allowfullscreen></iframe>
 
-  
 </p>
 
-Check out our new song "[Dialed Up](https://soundcloud.com/projectmammoth/dialed-up)"!  There is a preview release of our music and phreaking themed [mini-CTF](https://ctfd.io/whats-a-ctf/) embedded in the [.mp3 version of the song](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3) that is available now, and details on the full CTF can [be found on the contest page](https://dialed-up.ctfd.io/). The full contest starts on 2022-08-06.
+Check out our new video and song "[Dialed Up](https://soundcloud.com/projectmammoth/dialed-up)"!  As part of this release there is a music and phreaking themed [mini-CTF](https://ctfd.io/whats-a-ctf/) with hacking challenges embedded in the [.mp3 version of the song](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3).  The contest is now complete, but if you like music and hacking most of the challenges are still available for playing.  Details on the full CTF can still [be found on the contest page](https://dialed-up.ctfd.io/).
 
 <p align="center">
-  <b><a href="https://dialed-up.ctfd.io/">Click here to play along!!</a></b>
+  <b><a href="https://dialed-up.ctfd.io/">Click here to check out the original CTF contest details.</a></b>
 </p>
 
+
+# Links!
 
 [Soundcloud](https://soundcloud.com/projectmammoth)
 
