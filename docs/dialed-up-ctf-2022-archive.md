@@ -7,7 +7,7 @@ permalink: /dialed-up-ctf-2022-archive/
 # *This is an archive copy of ctf.projectmammoth.com and the completed 2022 Dialed up CTF*
 See the [contest wrap up blog post]() for details!  Note: Not all links below will work.
 
-![Mammoth](https://projectmammoth.com/images/dialed-up-ctf-ascii-banner.jpg)
+![Mammoth](https://projectmammoth.com/images/dialed-up-ctf-ascii-banner.png)
 
 # #DialedUpCTF is now complete! Thanks for playing!
 
