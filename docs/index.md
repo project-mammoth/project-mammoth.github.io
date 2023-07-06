@@ -12,7 +12,7 @@ title: Project Mammoth
 
 Project Mammoth is a collaboration of four siblings striving to push the boundaries of music and tech infused with art.
 
-## Debugged (The sound of an exploit)
+## Debugged (the sound of an exploit)
 
 <p align="center">
 
