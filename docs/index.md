@@ -17,7 +17,7 @@ Project Mammoth is a collaboration of four siblings striving to push the boundar
 <p align="center">
 
 Debugged ASCII logo
-<img width="40%" height="40%" src="https://projectmammoth.com/images/Debugged LG Thumbnail">
+<img width="40%" height="40%" src="https://projectmammoth.com/images/Debugged LG Thumbnail.jpg">
 
 [![Project Mammoth Debugged](https://img.youtube.com/vi/3hFmBamq3eI/0.jpg)]([https://www.youtube.com/watch?v=3hFmBamq3eI](https://soundcloud.com/projectmammoth/debugged-the-sound-of-an?si=78bc8811d9c94f2e8ca8333412ddb97b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing))
 
