@@ -19,8 +19,6 @@ Project Mammoth is a collaboration of four siblings striving to push the boundar
 Debugged ASCII logo
 <img width="40%" height="40%" src="https://projectmammoth.com/images/Debugged LG Thumbnail.jpg">
 
-[![Project Mammoth Debugged](https://img.youtube.com/vi/3hFmBamq3eI/0.jpg)]([https://www.youtube.com/watch?v=3hFmBamq3eI](https://soundcloud.com/projectmammoth/debugged-the-sound-of-an?si=78bc8811d9c94f2e8ca8333412ddb97b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing))
-
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1553425054&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/projectmammoth" title="Project Mammoth" target="_blank" style="color: #cccccc; text-decoration: none;">Project Mammoth</a> · <a href="https://soundcloud.com/proctmammoth/debugged-the-sound-of-an" title="Debugged (the sound of an exploit) Demo" target="_blank" style="color: #cccccc; text-decoration: none;">Debugged (the sound of an exploit) Demo</a></div>
 
 
