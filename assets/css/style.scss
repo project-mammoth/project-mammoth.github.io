@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#downloads .btn {
+  display: none;
+  text-align: center;
+  margin: 0;
+}
