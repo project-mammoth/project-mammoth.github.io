@@ -12,6 +12,18 @@ title: Project Mammoth
 
 Project Mammoth is a collaboration of four siblings striving to push the boundaries of music and tech infused with art.
 
+## Debugged (The sound of an exploit)
+
+<p align="center">
+<!--
+Debugged ASCII logo
+<img width="40%" height="40%" src="https://projectmammoth.com/images/dialed-up-ascii.png">
+
+MD YT Link 
+[![Project Mammoth Debugged](https://img.youtube.com/vi/3hFmBamq3eI/0.jpg)]([https://www.youtube.com/watch?v=3hFmBamq3eI](https://soundcloud.com/projectmammoth/debugged-the-sound-of-an?si=78bc8811d9c94f2e8ca8333412ddb97b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing))
+
+-->
+
 
 ## Dialed Up!
 
