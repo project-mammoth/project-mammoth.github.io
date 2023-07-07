@@ -5,12 +5,11 @@
 layout: default
 title: Project Mammoth
 ---
-
-# Project Mammoth!
-![Mammoth](https://projectmammoth.com/images/pm-logo-no-text.jpg)
 ## Music, Art, Tech & General Hackery
 
 Project Mammoth is a collaboration of four siblings striving to push the boundaries of music and tech infused with art.
+![Mammoth](https://projectmammoth.com/images/pm-logo-no-text.jpg)
+
 
 ## Debugged (the sound of an exploit)
 
@@ -18,6 +17,7 @@ Project Mammoth is a collaboration of four siblings striving to push the boundar
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1553425054&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </p>
+
 
 ## Dialed Up!
 
