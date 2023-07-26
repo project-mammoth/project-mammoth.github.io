@@ -30,12 +30,12 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </p>
 
-Check out our new [video](https://www.youtube.com/embed/euMZYqDG4Sc) and song "[Dialed Up](https://soundcloud.com/projectmammoth/dialed-up)"!
+Check out the [Dialed Up music video](https://www.youtube.com/embed/euMZYqDG4Sc) and [song here](https://soundcloud.com/projectmammoth/dialed-up)!
 
-Also included in this release is a music and phreaking themed [mini-CTF](https://ctfd.io/whats-a-ctf/) with hacking challenges embedded in the [.mp3 version of the song](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3).  The contest is now complete, but if you like music and hacking, most of the challenges are still available for playing.  Details on the original CTF and the challenges can [be found on the contest page](https://dialed-up.ctfd.io/).
+Dialed up was our music and phreaking themed [mini-CTF](https://ctfd.io/whats-a-ctf/) with hacking challenges embedded in the [.mp3 version of the song](https://github.com/project-mammoth/dialed-up-ctf/raw/main/Dialed%20Up%20CTF.mp3).  The contest is now complete, but if you like music and hacking, most of the challenges are still available for playing.
 
 <p align="center">
-  <b><a href="https://dialed-up.ctfd.io/">Click here to check out the original CTF contest details.</a></b>
+  <b><a href="dialed-up-ctf-2022-archive/">Click here to check out the original CTF contest and challenge data.</a></b>
 </p>
 
 
