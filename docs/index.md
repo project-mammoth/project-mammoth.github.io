@@ -7,11 +7,16 @@ title: Project Mammoth
 ---
 # Music, Art, Tech & General Hackery
 
-Project Mammoth is a collaboration of four siblings striving to push the boundaries of music and tech infused with art.
+Project Mammoth is a group of human siblings who spontaneously form into a convergent creative hive mind that produces experimental electro-rock Music, eclectic Art, absurd Tech and general Hackery for other humans to enjoy.
 <p align="center">
-<img src="https://projectmammoth.com/images/pm-logo-no-text.jpg" height="321" width="493">
+<img src="https://projectmammoth.com/images/header sm.jpg" height="450" width="1050">
 </p>
 
+# A Strange Fact
+It's the magic of mathematics, yes, it's just a strange fact about numbers...
+<p align="center">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1872894885&color=%23070708&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/projectmammoth" title="Project Mammoth" target="_blank" style="color: #cccccc; text-decoration: none;">Project Mammoth</a> · <a href="https://soundcloud.com/projectmammoth/a-strange-fact" title="A Strange Fact" target="_blank" style="color: #cccccc; text-decoration: none;">A Strange Fact</a></div>
+</p>
 
 # MAMMOTH mini-CTF 2023!
 <p align="center">
@@ -55,8 +60,13 @@ Dialed up was our music and phreaking themed [mini-CTF](https://ctfd.io/whats-a-
 
 [Soundcloud](https://soundcloud.com/projectmammoth) - Check out our other songs here!!
 
+[Spotify](https://open.spotify.com/artist/5MmlvWH4hNBvp8diHBsrb0?si=bU-g4LUBQxGvQ4qOvGMnQg)
+
 [Twitter](https://twitter.com/prjctmammoth)
 
 [Instagram](https://www.instagram.com/project_mammoth/)
 
 [Github](https://github.com/project-mammoth)
+
+
+
