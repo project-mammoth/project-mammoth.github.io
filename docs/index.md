@@ -12,6 +12,20 @@ Project Mammoth is a group of human siblings who spontaneously form into a conve
 <img src="https://projectmammoth.com/images/Header sm.jpg" height="450" width="1050">
 </p>
 
+# 1D Gaming!
+
+1D gaming on a single strip of lights — 1D Pong and Meshcore controlled 1D Chess on a 100+ foot LED strip.
+
+<p align="center">
+  <b><a href="/1d/">Check out 1D Gaming here.</a></b>
+</p>
+
+# 404 On the Dancefloor!
+<p align="center">
+<a href="https://distrokid.com/hyperfollow/projectmammoth/404-on-the-dancefloor"><img src="https://projectmammoth.com/images/404-otd.jpg" width="493"></a>
+</p>
+
+
 # A Strange Fact
 It's the magic of mathematics, yes, it's just a strange fact about numbers...
 <p align="center">
@@ -54,6 +68,7 @@ Dialed up was our music and phreaking themed [mini-CTF](https://ctfd.io/whats-a-
 <p align="center">
   <b><a href="dialed-up-ctf-2022-archive/">Click here to check out the original CTF contest and challenge data.</a></b>
 </p>
+
 
 
 # Links!
